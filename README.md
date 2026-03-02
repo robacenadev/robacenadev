@@ -75,8 +75,8 @@ Assumi o projeto após a saída do desenvolvedor anterior, atuando diretamente e
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=gustavosaud&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavosaud&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=robacenadev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robacenadev&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
