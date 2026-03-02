@@ -6,7 +6,6 @@
 
 <div align="center">
 
-### 👋 Olá! Sou o Gustavo
 
 Desenvolvedor com background em infraestrutura, atuando com **backend**, **automação** e **DevOps**.  
 Atualmente sustento e evoluo uma plataforma web corporativa de gestão financeira **multi-cloud** (AWS, Azure, Huawei).
