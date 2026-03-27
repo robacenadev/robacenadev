@@ -15,7 +15,7 @@ e construo do zero um **sistema CRM completo** para uma agência de marketing di
 ## 🚀 Sobre mim
 
 - 💼 Manutenção e evolução de uma **plataforma de gestão de custos multi-cloud** em produção
-- 🏗️ Construindo o **Easy Waves** — CRM + ERP completo com Django 5.1 + PostgreSQL + Docker
+- 🏗️ Construindo o **Growth Ocean** — CRM + ERP completo com Django 5.1 + PostgreSQL + Docker
 - 🐍 Backend com **Python / Django** como stack principal
 - ⚙️ Automação de pipelines e integração de sistemas com **n8n**
 - 🐳 Ambientes containerizados com **Docker Swarm + Traefik** e **Docker Compose**
