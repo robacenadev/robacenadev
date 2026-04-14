@@ -38,7 +38,7 @@
 
 | &nbsp; | projeto | stack |
 |---|---|---|
-| 🌊 | **Growth Ocean** — CRM & ERP para agência de marketing | Django · PostgreSQL · Docker · Railway |
+| 🌊 | **Growth Ocean** — CRM & ERP para agência de marketing | Django · PostgreSQL · Docker  |
 | ☁️ | **Plataforma Multi-Cloud Billing** — gestão de custos AWS/Azure/Huawei | Python · Django · Docker Swarm · n8n |
 | 🖥️ | **Saud Homelab** — monitoramento com Zabbix + alertas Telegram | Zabbix · Python · Hyper-V · Ubuntu |
 
