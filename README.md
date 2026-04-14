@@ -1,66 +1,58 @@
-<!-- header -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=13&duration=3000&pause=1000&color=50FA7B&center=true&vCenter=true&width=435&lines=backend.dev+%26+devops+engineer;python+%C2%B7+django+%C2%B7+docker+%C2%B7+linux;monitoramento+%C2%B7+noc+%C2%B7+infra" alt="typing" />
-</div>
-
-<br>
-
-```
-  ______Gustav___
- / _____ Saud __ \
-| // backend.dev  |
-| // devops · noc |
- \________________/
-```
-
-<br>
-
-<!-- badges de stack -->
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-050f09?style=flat-square&logo=python&logoColor=50fa7b)
-![Django](https://img.shields.io/badge/Django-050f09?style=flat-square&logo=django&logoColor=50fa7b)
-![Docker](https://img.shields.io/badge/Docker-050f09?style=flat-square&logo=docker&logoColor=50fa7b)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-050f09?style=flat-square&logo=postgresql&logoColor=50fa7b)
-![Linux](https://img.shields.io/badge/Linux-050f09?style=flat-square&logo=linux&logoColor=50fa7b)
-![Zabbix](https://img.shields.io/badge/Zabbix-050f09?style=flat-square&logo=zabbix&logoColor=50fa7b)
-![n8n](https://img.shields.io/badge/n8n-050f09?style=flat-square&logo=n8n&logoColor=50fa7b)
-![AWS](https://img.shields.io/badge/AWS-050f09?style=flat-square&logo=amazonaws&logoColor=50fa7b)
-![Azure](https://img.shields.io/badge/Azure-050f09?style=flat-square&logo=microsoftazure&logoColor=50fa7b)
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=28&duration=3000&pause=1000&color=50FA7B&center=true&vCenter=true&width=500&height=60&lines=Gustavo+Saud" alt="Gustavo Saud" />
+
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=14&duration=2500&pause=800&color=6A9F7B&center=true&vCenter=true&width=500&height=30&lines=Backend+Developer;DevOps+Engineer;NOC+Analyst;Contagem%2C+MG+%E2%80%94+Brasil" alt="roles" />
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/portf%C3%B3lio-gustavosaud.github.io-50fa7b?style=for-the-badge&logoColor=white)](https://robacenadev.github.io/gustavosaud.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavosaud)
+[![Email](https://img.shields.io/badge/Email-gusaud%40hotmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gusaud@hotmail.com)
 
 </div>
 
-<br>
+---
 
-<!-- info rápida -->
-```bash
-❯ whoami       →  Gustavo Saud — Backend Dev & DevOps
-❯ cat local    →  Contagem, MG — Brasil
-❯ cat status   →  disponível para novas oportunidades
-❯ echo $STACK  →  Python · Django · Docker · Zabbix · Linux
-```
+### `// stack`
 
-<br>
+<div align="center">
 
-<!-- projetos -->
-**`// projetos em produção`**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-| projeto | stack | status |
+</div>
+
+---
+
+### `// projetos em produção`
+
+| &nbsp; | projeto | stack |
 |---|---|---|
-| 🌊 Growth Ocean — CRM & ERP | Django · PostgreSQL · Docker · Railway | `● live` |
-| ☁️ Plataforma Multi-Cloud Billing | Python · Django · Docker Swarm · n8n | `● live` |
-| 🖥️ Saud Homelab — Zabbix + Telegram | Zabbix · Python · Hyper-V · Ubuntu | `● running` |
+| 🌊 | **Growth Ocean** — CRM & ERP para agência de marketing | Django · PostgreSQL · Docker · Railway |
+| ☁️ | **Plataforma Multi-Cloud Billing** — gestão de custos AWS/Azure/Huawei | Python · Django · Docker Swarm · n8n |
+| 🖥️ | **Saud Homelab** — monitoramento com Zabbix + alertas Telegram | Zabbix · Python · Hyper-V · Ubuntu |
 
-<br>
+---
 
-<!-- portfolio link -->
+### `// github stats`
+
 <div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=robacenadev&show_icons=true&theme=dracula&hide_border=true&count_private=true&hide=stars" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robacenadev&layout=compact&theme=dracula&hide_border=true" />
+</div>
 
-**`→`** &nbsp; **[gustavosaud.github.io](https://robacenadev.github.io/gustavosaud.github.io)** &nbsp; `// portfólio completo`
+---
 
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-050f09?style=flat-square&logo=linkedin&logoColor=50fa7b)](https://linkedin.com/in/gustavosaud)
-[![Email](https://img.shields.io/badge/Email-050f09?style=flat-square&logo=gmail&logoColor=50fa7b)](mailto:gusaud@hotmail.com)
-
+<div align="center">
+  <sub>→ veja o portfólio completo em <a href="https://robacenadev.github.io/gustavosaud.github.io"><strong>gustavosaud.github.io</strong></a></sub>
 </div>
