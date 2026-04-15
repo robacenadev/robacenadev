@@ -14,7 +14,7 @@
 
 ---
 
-### `// stack`
+### `stack`
 
 <div align="center">
 
@@ -34,7 +34,7 @@
 
 ---
 
-### `// projetos em produção`
+### `projetos em produção`
 
 | &nbsp; | projeto | stack |
 |---|---|---|
@@ -44,7 +44,7 @@
 
 ---
 
-### `// github stats`
+### `github stats`
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=robacenadev&show_icons=true&theme=dracula&hide_border=true&count_private=true&hide=stars" />
