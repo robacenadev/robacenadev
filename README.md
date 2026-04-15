@@ -43,12 +43,10 @@
 | 🖥️ | **Saud Homelab** — monitoramento com Zabbix + alertas Telegram | Zabbix · Python · Hyper-V · Ubuntu |
 
 ---
-
-### `github stats`
-
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=robacenadev&show_icons=true&theme=dracula&hide_border=true&count_private=true&hide=stars" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robacenadev&layout=compact&theme=dracula&hide_border=true" />
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=robacenadev&show_icons=true&theme=dracula&hide_border=true&count_private=true)
+
 </div>
 
 ---
