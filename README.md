@@ -14,7 +14,7 @@
 
 ---
 
-### `stack`
+### `Stack`
 
 <div align="center">
 
@@ -34,9 +34,9 @@
 
 ---
 
-### `projetos em produção`
+### `Projetos em produção`
 
-| &nbsp; | projeto | stack |
+| &nbsp; | Projeto | Stack |
 |---|---|---|
 | 🌊 | **Growth Ocean** — CRM & ERP para agência de marketing | Django · PostgreSQL · Docker  |
 | ☁️ | **Plataforma Multi-Cloud Billing** — gestão de custos AWS/Azure/Huawei | Python · Django · Docker Swarm · n8n |
