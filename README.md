@@ -1,56 +1,48 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=28&duration=3000&pause=1000&color=50FA7B&center=true&vCenter=true&width=500&height=60&lines=Gustavo+Saud" alt="Gustavo Saud" />
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=26&duration=2000&pause=800&color=50FA7B&center=true&vCenter=true&width=600&height=60&lines=Gustavo+Saud" alt="Gustavo Saud" />
 
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=14&duration=2500&pause=800&color=6A9F7B&center=true&vCenter=true&width=500&height=30&lines=Backend+Developer;DevOps+Engineer;NOC+Analyst;Contagem%2C+MG+%E2%80%94+Brasil" alt="roles" />
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=14&duration=2000&pause=600&color=6A9F7B&center=true&vCenter=true&width=600&height=30&lines=Backend+Developer+%7C+DevOps+Engineer+%7C+NOC+Analyst" alt="roles" />
 
-<br/>
+<br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/portf%C3%B3lio-gustavosaud.github.io-50fa7b?style=for-the-badge&logoColor=white)](https://robacenadev.github.io/gustavosaud.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavosaud)
-[![Email](https://img.shields.io/badge/Email-gusaud%40hotmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gusaud@hotmail.com)
-
-</div>
-
----
-
-### `Stack`
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/portfólio-gustavosaud-50fa7b?style=flat-square)](https://robacenadev.github.io/gustavosaud.github.io)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gustavosaud-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavosaud)
+&nbsp;
+[![Email](https://img.shields.io/badge/email-gusaud%40hotmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gusaud@hotmail.com)
 
 </div>
 
 ---
 
-### `Projetos em produção`
+**Formado em ADS**, trabalho com tecnologia há **2+ anos** — comecei no suporte e infra, hoje construo APIs com Django, automatizo pipelines com Docker e mantenho infraestrutura 24x7 como **Analista NOC Jr. na Prolinx**.
 
-| &nbsp; | Projeto | Stack |
-|---|---|---|
-| 🌊 | **Growth Ocean** — CRM & ERP para agência de marketing | Django · PostgreSQL · Docker  |
-| ☁️ | **Plataforma Multi-Cloud Billing** — gestão de custos AWS/Azure/Huawei | Python · Django · Docker Swarm · n8n |
-| 🖥️ | **Saud Homelab** — monitoramento com Zabbix + alertas Telegram | Zabbix · Python · Hyper-V · Ubuntu |
+Tenho 2 sistemas em produção e acredito que entender infra torna um dev backend muito mais completo.
 
----
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=robacenadev&show_icons=true&theme=dracula&hide_border=true&count_private=true)
-
-</div>
+> Buscando vaga como **Backend Developer** ou **DevOps Engineer** · Contagem, MG · remoto ou híbrido
 
 ---
 
+### Stack
+
+| Área | Tecnologias |
+|---|---|
+| **Backend** | Python · Django · FastAPI · DRF · REST API |
+| **DevOps** | Docker · Docker Swarm · Traefik · n8n · Bash |
+| **Banco de dados** | PostgreSQL · MySQL |
+| **Infra & Cloud** | Linux · VMware · Hyper-V · AWS · Azure · Huawei |
+| **Monitoramento** | Zabbix · Telegram Bot · NOC 24x7 |
+| **Redes & Seg.** | Sophos · pfSense · VPN · Firewall |
+
+---
+
 <div align="center">
-  <sub>→ veja o portfólio completo em <a href="https://robacenadev.github.io/gustavosaud.github.io"><strong>gustavosaud.github.io</strong></a></sub>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=robacenadev&show_icons=true&theme=dracula&hide_border=true&count_private=true&title_color=50fa7b&icon_color=50fa7b&text_color=6a9f7b&bg_color=0d1117" />
+
+<br/><br/>
+
+<sub><a href="https://robacenadev.github.io/gustavosaud.github.io">→ portfólio completo</a></sub>
+
 </div>
