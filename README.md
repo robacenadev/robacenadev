@@ -20,7 +20,7 @@
 
 Tenho 2 sistemas em produção e acredito que entender infra torna um dev backend muito mais completo.
 
-> Buscando vaga como **Backend Developer** ou **DevOps Engineer** · Contagem, MG · remoto ou híbrido
+> Buscando vaga como **Backend Developer** ou **DevOps Engineer** ·
 
 ---
 
