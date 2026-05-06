@@ -10,7 +10,7 @@
 
 Backend Developer e DevOps Engineer com **2+ anos em produção**.
 Construo APIs REST com **Django e FastAPI**, automatizo deploys com **Docker** e monitoro
-infraestrutura 24x7 como **Analista NOC Jr. na Prolinx** — onde gerencio **200+ hosts**,
+infraestrutura 24x7 como **Analista NOC Jr. na Prolinx** — onde junto com a equipe de monitoramento gerencio **200+ hosts**,
 administro **50+ servidores Linux** e faço triagem de ~20 alertas/dia via **Zabbix**.
 
 Tenho sistemas próprios em produção. Detalhes e contexto de entrega no portfólio abaixo.
