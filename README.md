@@ -1,48 +1,35 @@
-<div align="center">
+## Gustavo Saud
 
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=26&duration=2000&pause=800&color=50FA7B&center=true&vCenter=true&width=600&height=60&lines=Gustavo+Saud" alt="Gustavo Saud" />
+**Backend Developer · DevOps Engineer · NOC Analyst**
 
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=14&duration=2000&pause=600&color=6A9F7B&center=true&vCenter=true&width=600&height=30&lines=Backend+Developer+%7C+DevOps+Engineer+%7C+NOC+Analyst" alt="roles" />
-
-<br/><br/>
-
-[![Portfolio](https://img.shields.io/badge/portfólio-gustavosaud-50fa7b?style=flat-square)](https://robacenadev.github.io/gustavosaud.github.io)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-gustavosaud-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavosaud)
-&nbsp;
-[![Email](https://img.shields.io/badge/email-gusaud%40hotmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gusaud@hotmail.com)
-
-</div>
+[![Portfólio](https://img.shields.io/badge/portfólio-gustavosaud-informational?style=flat-square)](https://robacenadev.github.io/gustavosaud.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gustavosaud-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/gustavosaud)
+[![Email](https://img.shields.io/badge/email-gusaud@hotmail.com-EA4335?style=flat-square)](mailto:gusaud@hotmail.com)
 
 ---
 
-**Formado em ADS**, trabalho com tecnologia há **2+ anos** — comecei no suporte e infra, hoje construo APIs com Django, automatizo pipelines com Docker e mantenho infraestrutura 24x7 como **Analista NOC Jr. na Prolinx**.
+Backend Developer e DevOps Engineer com **2+ anos em produção**.
+Construo APIs REST com **Django e FastAPI**, automatizo deploys com **Docker** e monitoro
+infraestrutura 24x7 como **Analista NOC Jr. na Prolinx** — onde gerencio **200+ hosts**,
+administro **50+ servidores Linux** e faço triagem de ~20 alertas/dia via **Zabbix**.
 
-Tenho 2 sistemas em produção e acredito que entender infra torna um dev backend muito mais completo.
+Tenho sistemas próprios em produção. Detalhes e contexto de entrega no portfólio abaixo.
 
-> Buscando vaga como **Backend Developer** ou **DevOps Engineer** ·
+→ **[robacenadev.github.io/gustavosaud.github.io](https://robacenadev.github.io/gustavosaud.github.io)**
 
 ---
 
-### Stack
+## Stack
 
 | Área | Tecnologias |
 |---|---|
-| **Backend** | Python · Django · FastAPI · DRF · REST API |
-| **DevOps** | Docker · Docker Swarm · Traefik · n8n · Bash |
+| **Backend** | Python · Django · FastAPI · Django REST Framework · REST API |
+| **DevOps** | Docker · Docker Swarm · Traefik · Bash · Linux |
+| **Cloud** | AWS · Azure · VMware · Hyper-V |
 | **Banco de dados** | PostgreSQL · MySQL |
-| **Infra & Cloud** | Linux · VMware · Hyper-V · AWS · Azure · Huawei |
 | **Monitoramento** | Zabbix · Telegram Bot · NOC 24x7 |
-| **Redes & Seg.** | Sophos · pfSense · VPN · Firewall |
+| **Segurança & Redes** | Sophos · pfSense · VPN · Firewall |
 
 ---
 
-<div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=robacenadev&show_icons=true&theme=dracula&hide_border=true&count_private=true&title_color=50fa7b&icon_color=50fa7b&text_color=6a9f7b&bg_color=0d1117" />
-
-<br/><br/>
-
-<sub><a href="https://robacenadev.github.io/gustavosaud.github.io">→ portfólio completo</a></sub>
-
-</div>
+Aberto a propostas como **Backend Developer** ou **DevOps Engineer** · Belo Horizonte / Remoto
