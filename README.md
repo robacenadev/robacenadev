@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODE4MzU1MzEsIm5iZiI6MTc4MTgzNTIzMSwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzMtZmRkY2RiY2QtNWVhMi00NDE2LTlmNTktY2E3ZmQ5Mzk0YWNhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA2MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNjE5VDAyMTM1MVomWC1BbXotRXhwaXJlcz0zMDEmWC1BbXotU2lnbmF0dXJlPTkxZDI1NjRkM2Q5NWM4MWJkMDVmOTQ3ZGNkYjUxNTQ1ZjZkYmZjNmY3N2VkZThmMTQ4ZjFhY2UwN2FlNjE5MWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.RsPNiGMpOe2b4bcFOIN1TBW0SJvLnni-HQKIVwz1I7A" width="100%" />
+  <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="50%" />
 </p>
 
 <h1 align="center">
@@ -44,8 +44,8 @@ Backend Developer e DevOps Engineer com 2+ anos em producao. Construo APIs REST 
 <h2 align="center">GitHub</h2>
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=robacenadev&show_icons=true&theme=chartreuse_dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robacenadev&layout=compact&theme=chartreuse_dark&hide_border=true&langs_count=6" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=robacenadev&show_icons=true&theme=merko&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robacenadev&layout=compact&theme=merko&hide_border=true&langs_count=6" />
 </p>
 
 ---
@@ -55,6 +55,3 @@ Backend Developer e DevOps Engineer com 2+ anos em producao. Construo APIs REST 
   Belo Horizonte / Remoto
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-</p>
