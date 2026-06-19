@@ -1,63 +1,60 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=1000&height=60&lines=Gustavo+Saud;Backend+Developer;DevOps+Engineer;NOC+Analyst)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" />
+</p>
+
+<h1 align="center">Gustavo Saud</h1>
 
 <p align="center">
-  <a href="https://gustavo.saudlab.com.br"><img src="https://img.shields.io/badge/Portfolio-FF1493?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/gustavosaud"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:gusaud@hotmail.com"><img src="https://img.shields.io/badge/Email-DC143C?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <b>Backend Developer</b> | <b>DevOps Engineer</b> | <b>NOC Analyst</b>
+</p>
+
+<p align="center">
+  <a href="https://gustavo.saudlab.com.br">Portfolio</a> |
+  <a href="https://linkedin.com/in/gustavosaud">LinkedIn</a> |
+  <a href="mailto:gusaud@hotmail.com">Email</a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=robacenadev&theme=radical&no-frame=true&no-bg=true&column=4" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=2%2B+years+in+production;200%2B+hosts+monitored;50%2B+Linux+servers;~20+alerts%2Fday+via+Zabbix;Docker+Swarm+%2B+Traefik+deploys" />
 </p>
 
-## Sobre
-
-Backend Developer e DevOps Engineer com **2+ anos em producao**. Construo APIs REST com **Django e FastAPI**, automatizo deploys com **Docker** e monitoro infraestrutura 24x7 como **Analista NOC Jr. na Prolinx**.
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=500&color=FF69B4&center=true&vCenter=true&width=600&height=30&lines=200%2B+hosts+monitored;50%2B+Linux+servers+managed;~20+alerts%2Fday+triaged;Docker+Swarm+%2B+Traefik+deploys" />
-</p>
-
-Tenho sistemas proprios em producao.
+Backend Developer e DevOps Engineer com 2+ anos em producao. Construo APIs REST com Django e FastAPI, automatizo deploys com Docker e monitoro infraestrutura 24x7 como Analista NOC Jr. na Prolinx. Tenho sistemas proprios em producao.
 
 ---
 
-## Stack
+<h2 align="center">Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,docker,bash,linux,postgres,mysql,aws,azure" />
 </p>
 
-| Area | Tecnologias |
-|---|---|
-| **Backend** | Python 路 Django 路 FastAPI 路 DRF 路 REST APIs |
-| **DevOps** | Docker 路 Docker Swarm 路 Traefik 路 Bash 路 Linux |
-| **Cloud** | AWS 路 Azure 路 VMware 路 Hyper-V |
-| **Banco de Dados** | PostgreSQL 路 MySQL |
-| **Monitoramento** | Zabbix 路 Telegram Bot 路 NOC 24x7 |
-| **Redes & Seguranca** | Sophos 路 pfSense 路 VPN 路 Firewall |
+<p align="center">
+  <b>Backend:</b> Python, Django, FastAPI, DRF, REST APIs<br />
+  <b>DevOps:</b> Docker, Docker Swarm, Traefik, Bash, Linux<br />
+  <b>Cloud:</b> AWS, Azure, VMware, Hyper-V<br />
+  <b>Banco de Dados:</b> PostgreSQL, MySQL<br />
+  <b>Monitoramento:</b> Zabbix, Telegram Bot, NOC 24x7<br />
+  <b>Redes e Seguranca:</b> Sophos, pfSense, VPN, Firewall
+</p>
 
 ---
 
-## GitHub
+<h2 align="center">GitHub</h2>
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=robacenadev&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robacenadev&layout=compact&theme=radical&hide_border=true&langs_count=6" />
 </p>
 
-<img src="https://raw.githubusercontent.com/robacenadev/robacenadev/output/github-contribution-grid-snake-dark.svg" />
-
 ---
 
-## Contato
-
-Aberto a propostas como **Backend Developer** ou **DevOps Engineer** 鈥?Belo Horizonte / Remoto
+<p align="center">
+  <b>Aberto a propostas como Backend Developer ou DevOps Engineer</b><br />
+  Belo Horizonte / Remoto
+</p>
 
 <p align="center">
-  <a href="https://gustavo.saudlab.com.br"><img src="https://img.shields.io/badge/Portfolio-FF1493?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/gustavosaud"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:gusaud@hotmail.com"><img src="https://img.shields.io/badge/Email-DC143C?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </p>
